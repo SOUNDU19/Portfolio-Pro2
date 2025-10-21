@@ -90,7 +90,7 @@ nav ul li a:hover {
   align-items: center;
   text-align: center;
   background: linear-gradient(120deg, #a83279, #6a11cb);
-  color: #fff;
+  color: white;
 }
 
 .hero h1 {
@@ -485,4 +485,5 @@ footer {
   color: #fff;
   margin-top: 30px;
 }
+
 
